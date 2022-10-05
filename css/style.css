@@ -574,6 +574,7 @@ p {
 
 #footer .footer {
     min-height: 200px;
+    flex-direction: column;
     text-align: center;
     flex-direction: column;
     padding-top: 50px;
