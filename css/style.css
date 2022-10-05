@@ -700,6 +700,14 @@ p {
     }
 
     /* end contact */
+
+     /* footer */
+
+     #footer .footer {
+        text-align: center;
+    }
+
+    /* end footer */
 }
 
 
